@@ -12,7 +12,6 @@
 * <a href="https://t.me/Prominency">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 [![codewars](https://www.codewars.com/users/Prominency13/badges/large)](https://www.codewars.com/users/Prominency13)</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prominency13)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 ### Shortly about myself:
@@ -85,4 +84,4 @@ Here is one of common code-tasks completed in codewars:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/Prominency13)
+[![Hits](https://hits.sh/github.com/Prominency13.svg?logo=javascript)](https://hits.sh/github.com/Prominency13/)
