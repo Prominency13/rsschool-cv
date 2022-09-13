@@ -1,1 +1,1 @@
-https://Prominency13.github.io/rsschool-cv/cv
+https://Prominency13.github.io/rsschool-cv/
