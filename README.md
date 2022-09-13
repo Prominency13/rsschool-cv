@@ -1,2 +1,1 @@
-# rsschool-cv
-CV-Repo
+https://Prominency13.github.io/rsschool-cv/
